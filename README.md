@@ -4,7 +4,8 @@ url-shortner is a back end tasks, which is made via nodejs, express, mongoDB and
 # Dependencies
 1. express: "^4.17.1", // npm install express
 2. mongoose: "^5.8.10", // npm install mongoose
-3. shorthash: "0.0.2", // npm install shorthash 4 .validator: "^12.2.0" // npm install validator
+3. shorthash: "0.0.2", // npm install shorthash 
+4 .validator: "^12.2.0" // npm install validator
 
 # Description
 You can do CRUD operations on the bookmark. You can also search the bookmark via the tags associated with that particular bookmark.
